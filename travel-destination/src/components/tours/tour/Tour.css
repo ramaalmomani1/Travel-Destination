@@ -1,0 +1,29 @@
+.Tour{
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.contName{
+    color: black;
+    word-spacing: 10px;
+    text-shadow: 2px 2px 5px #41644A;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 4px;
+
+
+}
+
+.contImg{
+    
+    border-radius: 10px;    
+    width: 400px;
+}
+.ff{
+    color: black;
+    padding-top: 20px;
+    background-color:#F6F1F1;
+}
