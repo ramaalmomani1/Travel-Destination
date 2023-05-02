@@ -1,0 +1,49 @@
+.TourDetails{
+    padding: 10px;
+    text-align: center;
+}
+
+.name{
+    text-shadow: 2px 2px 5px #41644A;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 4px;
+
+}
+
+.image{
+    border-radius: 10px;    
+    width: 400px;
+}
+
+.information{
+    color: black;
+    padding: 10px 20px;
+    margin-right: 10px;
+    font-family:cursive
+}
+
+.button{
+
+    display: inline-block;
+  padding: 15px 25px;
+  font-size: 17px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #A4D0A4;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #F6FFDE;
+  margin-top: 20px;
+}
+
+.price{
+    font-size: 17px;  
+    font-family:cursive
+
+}

@@ -1,0 +1,36 @@
+.Header{
+
+     padding: 10px;
+  text-align: center;
+  background:#E3F2C1;
+  font-size: 20px;
+}
+
+.titel {
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    line-height: 1.8;
+    text-shadow: 2px 2px #617A55;
+
+}
+
+.titel1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    line-height: 1.8;
+   
+
+}
+
+.homeNav {
+    background-color: #FFF8D6;
+    color: black;
+    border: 2px solid #617A55;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;    
+}
